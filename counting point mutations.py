@@ -19,6 +19,7 @@ else:
             count +=1
     print(count)
 
+#sample DNA example
 #GAGCCTACTAACGGGAT
 #CATCGTAATGACGGCCT
 #7

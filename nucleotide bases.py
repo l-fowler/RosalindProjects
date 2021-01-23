@@ -1,5 +1,5 @@
 
-bases = input("Please copy and paste your base sequence: ")
+bases = input("Enter base sequence: ")
 
 #AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAAAAAAGAGTGTCTGATAGCAGC
 

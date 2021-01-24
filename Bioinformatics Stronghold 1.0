@@ -10,3 +10,4 @@ else:
     print("RNA sequence: ", dataset_RNA)
 
 #GATGGAACTTGACTACGTAAATT
+
